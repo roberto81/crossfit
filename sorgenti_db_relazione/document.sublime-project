@@ -1,0 +1,9 @@
+{
+	"folders":
+	[
+		{
+			"path": "/Users/roberto/Documents/progetto-base-di-dati/progetto/sviluppo",
+			"file_exclude_patterns" : ["*.pdf", "*.log","*.sublime-workspace","*.aux","*.fls","*.fdb_latexmk","*.synctex.gz","*.sql"]
+		}
+	]
+}

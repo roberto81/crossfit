@@ -1,0 +1,63 @@
+\select@language {italian}
+\select@language {italian}
+\contentsline {section}{\numberline {1}Descrizione del progetto}{4}
+\contentsline {section}{\numberline {2}Analisi dei requisiti}{6}
+\contentsline {section}{\numberline {3}Regole Aziendali}{8}
+\contentsline {subsection}{\numberline {3.1}Regole di Vincolo}{8}
+\contentsline {subsection}{\numberline {3.2}Regole di Derivazione}{8}
+\contentsline {section}{\numberline {4}Schema Entity-Relationship}{8}
+\contentsline {section}{\numberline {5}Normalizzazione schema Entity-Relationship}{12}
+\contentsline {subsection}{\numberline {5.1}Prima forma normale.}{12}
+\contentsline {subsection}{\numberline {5.2}Seconda Forma Normale}{12}
+\contentsline {subsection}{\numberline {5.3}Terza Forma Normale}{12}
+\contentsline {section}{\numberline {6}Schema Fisico}{12}
+\contentsline {section}{\numberline {7}Creazione delle Entit\IeC {\`a} e delle Relazioni.}{14}
+\contentsline {section}{\numberline {8}Inserimento dei dati nel database}{17}
+\contentsline {section}{\numberline {9}Query}{26}
+\contentsline {subsection}{\numberline {9.1}Query 1}{26}
+\contentsline {subsection}{\numberline {9.2}Query 2}{26}
+\contentsline {subsection}{\numberline {9.3}Query 3}{26}
+\contentsline {subsection}{\numberline {9.4}Query 4}{27}
+\contentsline {subsection}{\numberline {9.5}Query 5}{27}
+\contentsline {subsection}{\numberline {9.6}Query 6}{27}
+\contentsline {subsection}{\numberline {9.7}Query 7}{28}
+\contentsline {subsection}{\numberline {9.8}Query 8}{28}
+\contentsline {subsection}{\numberline {9.9}Query 9}{28}
+\contentsline {subsection}{\numberline {9.10}Query 10}{29}
+\contentsline {subsection}{\numberline {9.11}Query 11}{29}
+\contentsline {subsection}{\numberline {9.12}Query 12}{29}
+\contentsline {subsection}{\numberline {9.13}Query 13}{30}
+\contentsline {subsection}{\numberline {9.14}Query 14}{30}
+\contentsline {subsection}{\numberline {9.15}Query 15}{30}
+\contentsline {subsection}{\numberline {9.16}Query 16}{31}
+\contentsline {subsection}{\numberline {9.17}Query 17}{31}
+\contentsline {subsection}{\numberline {9.18}Query 18}{31}
+\contentsline {section}{\numberline {10}Algebra Relazionale}{32}
+\contentsline {subsection}{\numberline {10.1}Query 1 in Algebra relazionale}{32}
+\contentsline {subsection}{\numberline {10.2}Query 2 in Algebra Relazionale}{32}
+\contentsline {section}{\numberline {11}Calcolo Relazionale}{33}
+\contentsline {subsection}{\numberline {11.1}Query 1 in Calcolo Relazionale}{33}
+\contentsline {subsection}{\numberline {11.2}Query 2 in Calcolo Relazionale}{33}
+\contentsline {section}{\numberline {12}Trigger}{34}
+\contentsline {subsection}{\numberline {12.1}Trigger 1}{34}
+\contentsline {subsection}{\numberline {12.2}Trigger 2}{34}
+\contentsline {subsection}{\numberline {12.3}Trigger 3}{35}
+\contentsline {section}{\numberline {13}Stored Procedure}{35}
+\contentsline {subsection}{\numberline {13.1}Procedura 1}{35}
+\contentsline {subsection}{\numberline {13.2}Procedura 2}{37}
+\contentsline {subsection}{\numberline {13.3}Procedura 3}{38}
+\contentsline {subsection}{\numberline {13.4}Procedura 4}{39}
+\contentsline {section}{\numberline {14}Ottimizzazioni}{41}
+\contentsline {subsection}{\numberline {14.1}ottimizzazione query 4}{41}
+\contentsline {subsubsection}{\numberline {14.1.1}Query non ottimizzata}{41}
+\contentsline {subsubsection}{\numberline {14.1.2}Query ottimizzata}{41}
+\contentsline {subsubsection}{\numberline {14.1.3}Explain query non ottimizzata}{41}
+\contentsline {subsubsection}{\numberline {14.1.4}Explain query ottimizzata}{42}
+\contentsline {subsection}{\numberline {14.2}ottimizzazione query 7}{43}
+\contentsline {subsubsection}{\numberline {14.2.1}Query non ottimizzata}{43}
+\contentsline {subsubsection}{\numberline {14.2.2}Query ottimizzata}{44}
+\contentsline {subsubsection}{\numberline {14.2.3}Explain query non ottimizzata}{44}
+\contentsline {subsubsection}{\numberline {14.2.4}Explain query ottimizzata}{44}
+\contentsline {subsection}{\numberline {14.3}ottimizzazione query 11}{45}
+\contentsline {subsubsection}{\numberline {14.3.1}Explain query senza l'utilizzo dell'indice}{45}
+\contentsline {subsubsection}{\numberline {14.3.2}Explain query con l'utilizzo dell'indice}{46}
